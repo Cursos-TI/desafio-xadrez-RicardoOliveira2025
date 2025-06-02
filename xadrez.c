@@ -8,7 +8,11 @@ int main() {
 
     //Movimento do Bispo
 
+    while (b < 5) {
+        printf("Mover uma casa na diagonal direita\n", b);
+        b++;
 
+    }
 
 
     //Movimento da Rainha
